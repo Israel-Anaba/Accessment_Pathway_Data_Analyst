@@ -1,8 +1,10 @@
 pandas
+prettytable
 numpy
 seaborn
 matplotlib 
 plotly
+Jinja2
 scikit-learn
 xgboost
 Scipy
