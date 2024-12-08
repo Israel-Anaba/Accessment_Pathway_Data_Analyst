@@ -144,6 +144,7 @@ This project was developed during the Azubi Africa Data Science Training. Find i
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
+
 ## Resources 📚
 
 Here are a few recommended resources to help you gain a solid understanding of the frameworks used in the project:
