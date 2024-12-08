@@ -24,7 +24,8 @@ Below is a preview showcasing the app's interface.
 
 ![Prev](Screenshots/Term_Deposit1.jpeg)
 
-👉❗ [Gradio App is available for interaction on this url](https://huggingface.co/spaces/gr8testgad-1/Term_Deposit_Predictions) ❗
+
+👉❗ [Gradio App is available for interaction on this url](https://huggingface.co/spaces/gr8testgad-1/Term_Deposit_Predictions)
 
 
 ![Prev1](Screenshots/Term_Deposit2.jpeg)
@@ -143,6 +144,7 @@ This project was developed during the Azubi Africa Data Science Training. Find i
 ## Contributing 🤝
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
 
 ## Resources 📚
 
