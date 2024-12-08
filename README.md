@@ -24,7 +24,7 @@ Below is a preview showcasing the app's interface.
 
 ![Prev](Screenshots/Term_Deposit1.png)
 
-👉❗ [Gradio App is available for interaction on this url](http://127.0.0.1:7860/) ❗
+👉❗ [Gradio App is available for interaction on this url](https://huggingface.co/spaces/gr8testgad-1/Term_Deposit_Predictions/) ❗
 
 
 ![Prev1](Screenshots/Movie_app4.jpeg)
