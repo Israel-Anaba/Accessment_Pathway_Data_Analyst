@@ -24,7 +24,7 @@ Below is a preview showcasing the app's interface.
 
 ![Prev](Screenshots/Term_Deposit1.jpeg)
 
-👉❗ [Gradio App is available for interaction on this url](http://127.0.0.1:7860/) ❗
+👉❗ [Gradio App is available for interaction on this url](https://huggingface.co/spaces/gr8testgad-1/Term_Deposit_Predictions) ❗
 
 
 ![Prev1](Screenshots/Term_Deposit2.jpeg)
@@ -125,7 +125,7 @@ The APP was further deployed on huggingface. You can interact with the app via h
 1. If you don't have a Hugging Face account, you can sign up for free at .
    [Hugging Face](https://huggingface.co/signup).
 2. After signing in, you can access the app using the link below:
-   🔔 ❗🤖[Term-Deposit-Analysis-Gradio](https://gr8testgad-1-movie-review-analysis.hf.space)❗
+   🔔 ❗🤖[Term-Deposit-Analysis-Gradio](https://huggingface.co/spaces/gr8testgad-1/Term_Deposit_Predictions)❗
    <!-- 🔔 ❗🤖[Movie-Review-Analysis-Streamlit](https://huggingface.co/spaces/gr8testgad-1/Movie-Review-Sentiment-Roberta)❗ -->
 
 Please note that you need to be signed in to Hugging Face to utilize this service. If you encounter any issues or have questions, feel free to checkout the huggingface documentation [Huggingface Documentation](https://huggingface.co/docs) for assistance.
@@ -150,7 +150,7 @@ Here are a few recommended resources to help you gain a solid understanding of t
 
 ❗[Get started with Gradio](https://gradio.app/getting_started/)
 
-❗[Get started with Streamlit](https://docs.streamlit.io/)
+<!-- ❗[Get started with Streamlit](https://docs.streamlit.io/) -->
 
 ❗[Get to know about Hugging Face](https://huggingface.co/)
 
