@@ -22,15 +22,15 @@ The objective is to build an accurate predictive model that helps the business t
 
 Below is a preview showcasing the app's interface.
 
-![Prev](Screenshots/Term_Deposit1.png)
+![Prev](Screenshots/Term_Deposit1.jpeg)
 
 👉❗ [Gradio App is available for interaction on this url](http://127.0.0.1:7860/) ❗
 
 
-![Prev1](Screenshots/Movie_app4.jpeg)
+![Prev1](Screenshots/Term_Deposit2.jpeg)
 
 
-👉❗ [Streamlit App is available for interaction on this url](http://localhost:8501) ❗
+<!-- 👉❗ [Streamlit App is available for interaction on this url](http://localhost:8501) ❗ -->
 
 ## Notable Features 🌟
 
@@ -49,7 +49,7 @@ To set up and run the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone '<https://github.com/Israel-Anaba/Movie_Review_Analysis.git>'
+   git clone '<https://github.com/Israel-Anaba/Accessment_Pathway_Data_Analyst>'
    ```
 
 ```
