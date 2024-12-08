@@ -49,7 +49,7 @@ To set up and run the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone '<https://github.com/Israel-Anaba/Accessment_Pathway_Data_Analyst>'
+   git clone '<https://github.com/Israel-Anaba/Bank_Marketing_Campaign>'
    ```
 
 ```
