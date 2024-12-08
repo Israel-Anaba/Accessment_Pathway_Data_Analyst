@@ -22,15 +22,16 @@ The objective is to build an accurate predictive model that helps the business t
 
 Below is a preview showcasing the app's interface.
 
-![Prev](Screenshots/Term_Deposit1.png)
-
-👉❗ [Gradio App is available for interaction on this url](https://huggingface.co/spaces/gr8testgad-1/Term_Deposit_Predictions/) ❗
+![Prev](Screenshots/Term_Deposit1.jpeg)
 
 
-![Prev1](Screenshots/Movie_app4.jpeg)
+👉❗ [Gradio App is available for interaction on this url](https://huggingface.co/spaces/gr8testgad-1/Term_Deposit_Predictions)
 
 
-👉❗ [Streamlit App is available for interaction on this url](http://localhost:8501) ❗
+![Prev1](Screenshots/Term_Deposit2.jpeg)
+
+
+<!-- 👉❗ [Streamlit App is available for interaction on this url](http://localhost:8501) ❗ -->
 
 ## Notable Features 🌟
 
@@ -49,7 +50,7 @@ To set up and run the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone '<https://github.com/Israel-Anaba/Movie_Review_Analysis.git>'
+   git clone '<https://github.com/Israel-Anaba/Accessment_Pathway_Data_Analyst>'
    ```
 
 ```
@@ -125,7 +126,7 @@ The APP was further deployed on huggingface. You can interact with the app via h
 1. If you don't have a Hugging Face account, you can sign up for free at .
    [Hugging Face](https://huggingface.co/signup).
 2. After signing in, you can access the app using the link below:
-   🔔 ❗🤖[Term-Deposit-Analysis-Gradio](https://gr8testgad-1-movie-review-analysis.hf.space)❗
+   🔔 ❗🤖[Term-Deposit-Analysis-Gradio](https://huggingface.co/spaces/gr8testgad-1/Term_Deposit_Predictions)❗
    <!-- 🔔 ❗🤖[Movie-Review-Analysis-Streamlit](https://huggingface.co/spaces/gr8testgad-1/Movie-Review-Sentiment-Roberta)❗ -->
 
 Please note that you need to be signed in to Hugging Face to utilize this service. If you encounter any issues or have questions, feel free to checkout the huggingface documentation [Huggingface Documentation](https://huggingface.co/docs) for assistance.
@@ -151,7 +152,7 @@ Here are a few recommended resources to help you gain a solid understanding of t
 
 ❗[Get started with Gradio](https://gradio.app/getting_started/)
 
-❗[Get started with Streamlit](https://docs.streamlit.io/)
+<!-- ❗[Get started with Streamlit](https://docs.streamlit.io/) -->
 
 ❗[Get to know about Hugging Face](https://huggingface.co/)
 
