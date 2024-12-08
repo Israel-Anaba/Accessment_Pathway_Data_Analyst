@@ -32,8 +32,7 @@ Below is a preview showcasing the app's interface.
 
 <!-- 👉❗ [Streamlit App is available for interaction on this url](http://localhost:8501) ❗ -->
 
-## Notable Features 🌟
-
+## Notable Feature 
 - **Data Collection:** Gathered a balanced dataset of movie reviews with sentiment labels.
 - **EDA:** Conducted comprehensive exploratory data analysis to gain insights.
 - **Data Preprocessing:** Leveraged NLP tools to clean and prepare text data for modeling.
@@ -82,14 +81,16 @@ To set up and run the project:
    pip install -r requirements.txt
    ```
 6. Explore the Jupyter notebooks for data analysis, model training, and experimentation.
+
 7. Run the Gradio app for real-time sentiment analysis:
 
-   ```bash python src/app.py
+   ```bash 
+      python src/app.py
    ```
 8. Run the Streamlit app for real-time sentiment analysis:
 
 ```bash
-   streamlit run src/app_streamlit.py
+#    streamlit run src/app_streamlit.py
 
 ```
 
@@ -99,7 +100,7 @@ To set up and run the project:
 ## Usage 🚀
 
 1. **Launch the Gradio App:** Start the Gradio app by running `python app.py`.
-2. **Analyze Reviews:** Input movie reviews to receive real-time sentiment predictions.
+2. **Analyze Reviews:** Input for Term Deposit Subcription predictions.
 3. **Customize and Experiment:** Modify hyperparameters, customize the pipeline, or fine-tune models to suit your needs.
 
 <!-- ## Dockerization 📦 -->
@@ -133,7 +134,7 @@ Please note that you need to be signed in to Hugging Face to utilize this servic
 
 ## Author 📖 🧑‍🎓
 
-This project was developed during the Azubi Africa Data Science Training. Find in the provided link an article covering interesting findings from the project.
+This project was developed as a project for the Azubi Africa Data Science. Find in the provided link an article covering interesting findings from the different Projects.
 
 | Name                | Article                                                                                                                                                                                  |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
