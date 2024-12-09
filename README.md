@@ -88,7 +88,7 @@ To set up and run the project:
    ```bash 
       python src/app.py
    ```
-8. Run the Streamlit app for real-time sentiment analysis:
+<!-- 8. Run the Streamlit app for real-time sentiment analysis: -->
 
 <!-- ```bash -->
 <!-- #    streamlit run src/app_streamlit.py -->
