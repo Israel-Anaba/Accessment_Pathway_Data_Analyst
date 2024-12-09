@@ -90,10 +90,10 @@ To set up and run the project:
    ```
 8. Run the Streamlit app for real-time sentiment analysis:
 
-```bash
-#    streamlit run src/app_streamlit.py
+<!-- ```bash -->
+<!-- #    streamlit run src/app_streamlit.py -->
 
-```
+<!-- ``` -->
 
 🚥 NOTE: You can run the notebooks outside the venv
 
